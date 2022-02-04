@@ -1,1 +1,1 @@
-Folder for Testing auomation using cypress
+Folder for Testing Automation using cypress
